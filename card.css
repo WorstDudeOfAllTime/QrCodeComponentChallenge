@@ -1,6 +1,10 @@
 body{
     font-family: 'Outfit', sans-serif;
 }
+#container{
+    display: flex;
+    justify-content: center;
+}
 #frame{
     display: flex;
     justify-content: center;
